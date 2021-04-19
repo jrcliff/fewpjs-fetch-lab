@@ -67,7 +67,7 @@ will be robust documentation to go along with the API to help you out and give
 you a road map to help you figure out how to format your request for
 information. For now we'll focus on just getting different kinds of information
 out of the API's `/books` path.
-
+∂
 Play around with the logged response. See if you can design a strategy to take
 the logged object to find the following answers. To pass the lab you don't have
 to have to encode these strategies.
